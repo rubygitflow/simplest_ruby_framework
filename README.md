@@ -2,7 +2,7 @@
 
 **SimplestRubyFramework** is a little web framework written in [Ruby](https://www.ruby-lang.org) language. It's compatible with [Rack](https://rack.github.io) interface and intended to **learn** how web frameworks work in general. This framework is forked from [Simpler](https://github.com/psylone/simpler).
 
-It utilizes '.ERB' format for front pages, and offers **'.JRB'** format (i.e. **[JSON5](https://ru.wikipedia.org/wiki/JSON#JSON5)**) for RestApi.
+It utilizes '.ERB' templating format for front pages, and offers **'.JRB'** templating format (i.e. **[JSON5](https://ru.wikipedia.org/wiki/JSON#JSON5)**) for RestApi.
 
 ## The application overview
 
